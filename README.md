@@ -1,6 +1,8 @@
-# Fumi 文 — understand Japanese letters, privately
+# Fumi 文: understand Japanese letters, privately
 
 **Try it:** https://fumi-letters.web.app (Chrome on a desktop with a GPU gives you the full on-device experience; any browser works with the cloud path)
+
+**Demo video (2 min):** https://youtu.be/A2WVpm70f-E
 
 **Fumi** helps people who live in Japan but don't read Japanese understand the official letters that land in their mailbox: resident tax bills, health insurance and pension notices, reminders from the city office. Take a photo, and Fumi tells you what the letter is, what you have to do, by when and how much, in your language.
 

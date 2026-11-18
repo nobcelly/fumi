@@ -23,7 +23,7 @@ Fumi doesn't just "prefer on-device and fall back to the cloud". It **routes eac
 | 3. Explain | the **covered** transcript | on-device when Gemini Nano writes the reader's language (English, Spanish, Japanese), otherwise the cloud, after the reader confirms | `PREFER_ON_DEVICE` / `ONLY_IN_CLOUD` with a `responseSchema` |
 | 4. Follow-up questions | covered transcript + covered question | on-device when possible; the cloud on request | `ONLY_ON_DEVICE` / `ONLY_IN_CLOUD` |
 
-Measured on a laptop with an RTX 2060 (Chrome 157): reading 10–14 s, finding personal details 6 s, explaining on the device 19 s or in the cloud 7 s.
+Measured on a laptop with an RTX 2060 (Chrome 157): reading 10–19 s, finding personal details 4–6 s, explaining on the device 16–19 s or in the cloud 3–7 s.
 
 ### Privacy by construction
 
